@@ -1,0 +1,7 @@
+Packages:
+-yfinance
+-pandas
+-matplotlib
+-seaborn
+-jupyter
+-numpy
